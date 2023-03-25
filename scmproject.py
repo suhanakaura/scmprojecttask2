@@ -1,3 +1,4 @@
+#Python snake game project 
 import pygame
 from pygame.locals import *
 import time
